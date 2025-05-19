@@ -1,4 +1,12 @@
-## Hi there 👋
+<div>
+  <!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Not%20perfect,-nl-Just%20improving&height=220)  
+</div>
+
+<div>
+  <!-- Body -->
+
+</div>
 
 <!--
 **yujin0408/yujin0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
